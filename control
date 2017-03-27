@@ -1,0 +1,9 @@
+Package: com.joemerlino.powercaller
+Name: PowerCaller
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Overrides the mute switch and boosts the ringtone for a specified caller.
+Maintainer: Joe Merlino
+Author: Joe Merlino
+Section: Tweaks
